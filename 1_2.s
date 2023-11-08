@@ -1,7 +1,7 @@
 .data
-	mat: .space 400008
-	act: .space 400008
-	aux: .space 400008
+	mat: .space 400008 
+	act: .space 400008 
+	aux: .space 400008 
 	v_vecini: .space 400008
 	legaturi: .space 404
 	cerinta: .space 4
